@@ -1,6 +1,8 @@
 ## Day 2 of R workshop
 ### by Andrew and Alathea
 ### that was awesome
+### the plots were ok
+
 ##é bom dizer logo no inicio que pacotes usei
 # para criar isso coloco clicar em code, insert section 
 
